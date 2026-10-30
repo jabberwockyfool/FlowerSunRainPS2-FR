@@ -1,4 +1,4 @@
-# Flower, Sun and Rain (Patch FR) — PlayStation 2
+# Flower, Sun and Rain (Patch FR) - PlayStation 2
 
 Ce patch met en français la version PS2 de Flower, Sun and Rain (Hana to Taiyou to Ame to).
 Le texte est celui de la traduction française officielle de la version Nintendo DS européenne,
@@ -7,7 +7,7 @@ reporté dans le jeu PS2. L'opening est sous-titré en français (romaji + kanji
 Aucun fichier du jeu n'est fourni : il vous faut votre propre ISO.
 
 
-ISO DE DÉPART
+ISO de départ
 -------------
 Le patch s'applique sur l'ISO japonaise déjà patchée en anglais (patch anglais v1.0 de Patchbay Works) :
 
@@ -22,7 +22,7 @@ Si vous n'avez que l'ISO japonaise, appliquez d'abord le patch anglais dessus
 Vérifiez la somme MD5 avant de patcher : avec une autre ISO, le patch ne fonctionnera pas.
 
 
-APPLIQUER LE PATCH
+Appliquer le Patch
 ------------------
 Windows : Delta Patcher (ou xdelta UI)
   1. Fichier d'origine : Hana to Taiyou to Ame to (English v1.0).iso
@@ -41,7 +41,7 @@ Résultat attendu :
 Testé sur PCSX2.
 
 
-LIMITES CONNUES
+Limites connues
 ---------------
 - Les quelques répliques propres à la version PS2 (sans équivalent dans la VF DS) restent en japonais.
 - Les menus et images d'interface restent en anglais.
@@ -49,7 +49,7 @@ LIMITES CONNUES
 - Deux mots des kanji de l'opening ont été reconstitués à l'oreille (paroles officielles introuvables).
 
 
-CRÉDITS
+Crédits
 -------
 - Traduction française officielle : version Nintendo DS européenne (Marvelous / Rising Star Games).
 - Patch anglais PS2 : Patchbay Works.
