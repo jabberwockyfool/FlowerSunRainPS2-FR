@@ -4,6 +4,8 @@ Ce patch met en français la version PS2 de Flower, Sun and Rain (Hana to Taiyou
 Le texte est celui de la traduction française officielle de la version Nintendo DS européenne,
 reporté dans le jeu PS2. L'opening est sous-titré en français (romaji + kanji + traduction).
 
+![Alt text](https://i.ibb.co/rKFCLZft/image.pnghttps://i.ibb.co/rKFCLZft/image.png)
+
 Aucun fichier du jeu n'est fourni : il vous faut votre propre ISO.
 
 
